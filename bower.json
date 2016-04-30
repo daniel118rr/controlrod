@@ -1,0 +1,24 @@
+{
+  "name": "controlrod",
+  "homepage": "https://github.com/daniel118rr/controlrod",
+  "description": "Portal de Control de rodamiento",
+  "main": "index.html",
+  "keywords": [
+    "rodamiento",
+    "vehiculos"
+  ],
+  "authors": [
+    "Daniel Ramirez - daniel118rr@gmail.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
